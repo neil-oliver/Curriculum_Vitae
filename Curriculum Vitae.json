@@ -1,0 +1,77 @@
+{
+  "Curriculum Vitae" : {
+    "Version": 1.0,
+    "Person" : {
+      "Personal Details" : {
+        "Name" : "Neil Oliver",
+        "D.O.B" : "21/03/1985",
+        "Contact" : {
+          "Phone" : {
+            "Mobile" : {
+              "Number" : "07745333700",
+              "Area Code" : "+44 (United Kingdom)"
+            }
+          },
+          "Email" : {
+            "Personal" : "neiloliverphoto@gmail.com",
+            "Work" : "n.oliver@ralphallenschool.com"
+          }     
+        }
+      },
+      "Work" : {
+        "Employer" : {
+          "Name" : "Ralph Allen School",
+          "Address" : "",
+          "Post" : {
+            "Title" : "",
+            "Responsibilities" : "",
+            "Start Date" : "",
+            "End Date" : "",
+            "Current Post" : true
+          },
+          "Post" : {
+            "Title" : "",
+            "Responsibilities" : "",
+            "Start Date" : "",
+            "End Date" : "",
+            "Current Post" : true
+
+          }
+        }  
+      },
+      "Education" : {
+        "College of St. Mark & St. John" : {
+          "Course" : {
+            "Level" : "Post Graduate Certificate",
+            "Title" : "Post Graduate Certificate of Education",
+            "Specialism" : "Information & Communication Technology",
+            "Units" : [
+              "Unit 1",
+              "Unit 2",
+              "Unit 3"
+            ],
+            "Start Date" : "",
+            "End Date" : ""
+          }
+        },  
+        "University of Plymouth" : {
+          "Course" : {
+            "Level" : "Bachelor of arts with honours",
+            "Title" : "Photomedia and Design Communications",
+            "Specialism" : "Music Technology",
+            "Units" : [
+              "Unit 1",
+              "Unit 2",
+              "Unit 3"
+            ],
+            "Start Date" : "",
+            "End Date" : ""
+          }          
+        }  
+      },
+      "Hobbies & Interests" : {
+
+      }
+    }
+  }
+}

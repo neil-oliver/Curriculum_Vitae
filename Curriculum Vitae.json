@@ -19,82 +19,86 @@
         }
       },
       "Work" : {
-        "Employer" : {
-          "Name" : "Ralph Allen School",
-          "Address" : "Claverton Down Road, Bath, UK",
-          "Post" : {
-            "Title" : "Management Responsibility Post: Assistant Head of House",
-            "Responsibilities" : [
-              "Develop and maintain a House and School Ethos",
-              "Monitor and support student progress, achievement, wellbeing and safeguarding",
-              "Accountability for leading, managing and enhancing student development across the curriculum",
-              "Management responsibility including supporting, observing and monitoring a team of pastoral tutors"
-            ],
-            "Start Date" : "01/06/2015",
-            "End Date" : null,
-            "Current Post" : true
+        "Employer" : [
+          {
+            "Name" : "Ralph Allen School",
+            "Address" : "Claverton Down Road, Bath, UK",
+            "Post" : [
+              {
+                "Title" : "Management Responsibility Post: Assistant Head of House",
+                "Responsibilities" : [
+                  "Develop and maintain a House and School Ethos",
+                  "Monitor and support student progress, achievement, wellbeing and safeguarding",
+                  "Accountability for leading, managing and enhancing student development across the curriculum",
+                  "Management responsibility including supporting, observing and monitoring a team of pastoral tutors"
+                ],
+                "Start Date" : "01/06/2015",
+                "End Date" : null,
+                "Current Post" : true
+              },
+              {
+                "Title" : "Teacher of Computer Science",
+                "Responsibilities" : "Curriculum development & delivery of key stage 3, 4 & 5 including OCR GCSE specifications and A Level AQA & OCR specifications.",
+                "Topics_covered" : [
+                  "KS 3 programming in Kodu, Small Basic, HTML, CSS, Python & Scratch",
+                  "KS 4 programming in Python, LMC & Javascript",
+                  "KS 5 programming in Python, Swift & PHP"
+                ],
+                "Start Date" : "01/09/2006",
+                "End Date" : null,
+                "Current Post" : true
+              },
+              {
+                "Title" : "Teacher of Music Technology",
+                "Responsibilities" : "Curriculum development and delivery of the Edexcel A Level Music Technology specification.",
+                "Topics_covered" : [
+                  "MIDI sequencing",
+                  "Live audio capture",
+                  "Audio manipulation",
+                  "Mixing",
+                  "Creative music composition",
+                  "Popular music styles since 1910"
+                ],
+                "Start Date" : "01/09/2007",
+                "End Date" : null,
+                "Current Post" : true
+              },
+              {
+                "Title" : "Teacher of Information Communication Technology",
+                "Responsibilities" : "Teaching key stage 3, 4, & 5 covering KS3 national curriculum topics, GCSE OCR & CCEA specifications, Edexcel BTEC Level 2 and A Level OCR specifications.",
+                "Topics_covered" : [
+                  "E-safety",
+                  "Multimedia - Powerpoint",
+                  "Website design including HTML & CSS",
+                  "Spreadsheet software - Excel",
+                  "Database software - Access and SQL",
+                  "Image manipulation - Photoshop"
+                ],
+                "Start Date" : "01/09/2006",
+                "End Date" : "31/08/2017",
+                "Current Post" : false
+              }
+            ]
           },
-          "Post" : {
-            "Title" : "Teacher of Computer Science",
-            "Responsibilities" : "Curriculum development & delivery of key stage 3, 4 & 5 including OCR GCSE specifications and A Level AQA & OCR specifications.",
-            "Topics_covered" : [
-              "KS 3 programming in Kodu, Small Basic, HTML, CSS, Python & Scratch",
-              "KS 4 programming in Python, LMC & Javascript",
-              "KS 5 programming in Python, Swift & PHP"
-            ],
-            "Start Date" : "01/09/2006",
-            "End Date" : null,
-            "Current Post" : true
-          },
-          "Post" : {
-            "Title" : "Teacher of Music Technology",
-            "Responsibilities" : "Curriculum development and delivery of the Edexcel A Level Music Technology specification.",
-            "Topics_covered" : [
-              "MIDI sequencing",
-              "Live audio capture",
-              "Audio manipulation",
-              "Mixing",
-              "Creative music composition",
-              "Popular music styles since 1910"
-            ],
-            "Start Date" : "01/09/2007",
-            "End Date" : null,
-            "Current Post" : true
-          },
-          "Post" : {
-            "Title" : "Teacher of Information Communication Technology",
-            "Responsibilities" : "Teaching key stage 3, 4, & 5 covering KS3 national curriculum topics, GCSE OCR & CCEA specifications, Edexcel BTEC Level 2 and A Level OCR specifications.",
-            "Topics_covered" : [
-              "E-safety",
-              "Multimedia - Powerpoint",
-              "Website design including HTML & CSS",
-              "Spreadsheet software - Excel",
-              "Database software - Access and SQL",
-              "Image manipulation - Photoshop"
-            ],
-            "Start Date" : "01/09/2006",
-            "End Date" : "31/08/2017",
-            "Current Post" : false
+          {
+            "Name" : "Neil Oliver Photo",
+            "Address" : "25 Brunswick Street, Bath, UK",
+            "Post" : {
+              "Title" : "Photographer",
+              "Responsibilities" : "Specialising in Wedding, Live Music, Lifestyle & Event photography",
+              "Topics_covered" : [
+                "Session documentation at Abbey Road Studios & Air Studios",
+                "Brand promotional material for fffunction clients Brand on Shelf",
+                "Lifestyle and product photography for Koustic & Demakes clothing",
+                "Live Music photography & videography @ NASS, Slam Dunk & Hevy Festival"
+              ],
+              "Link" : "https://www.flickr.com/photos/neiloliverphoto/albums/",
+              "Start Date" : "01/06/2015",
+              "End Date" : null,
+              "Current Post" : true
+            }
           }
-        },
-        "Employer" : {
-          "Name" : "Neil Oliver Photo",
-          "Address" : "25 Brunswick Street, Bath, UK",
-          "Post" : {
-            "Title" : "Photographer",
-            "Responsibilities" : "Specialising in Wedding, Live Music, Lifestyle & Event photography",
-            "Topics_covered" : [
-              "Session documentation at Abbey Road Studios & Air Studios",
-              "Brand promotional material for fffunction clients Brand on Shelf",
-              "Lifestyle and product photography for Koustic & Demakes clothing",
-              "Live Music photography & videography @ NASS, Slam Dunk & Hevy Festival"
-            ],
-            "Link" : "https://www.flickr.com/photos/neiloliverphoto/albums/",
-            "Start Date" : "01/06/2015",
-            "End Date" : null,
-            "Current Post" : true
-          }
-        }  
+        ]  
       },
       "Education" : {
         "College of St. Mark & St. John" : {
@@ -145,7 +149,7 @@
       "Hobbies & Interests" : [
         "Climbing",
         "iOS Application Development",
-        "Performing Live Music"
+        "Performing Live Music",
         "Photography"
       ]
     }

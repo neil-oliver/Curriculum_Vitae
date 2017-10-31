@@ -23,6 +23,7 @@
           {
             "Name" : "Ralph Allen School",
             "Address" : "Claverton Down Road, Bath, UK",
+            "Link" : "ralphallenschool.com",
             "Post" : [
               {
                 "Title" : "Management Responsibility Post: Assistant Head of House",
@@ -151,7 +152,14 @@
         "iOS Application Development",
         "Performing Live Music",
         "Photography"
-      ]
+      ],
+      "Links" : {
+        "Flickr" : "flickr.com/photos/neiloliverphoto/albums/",
+        "Instagram" : "instagram.com/neiloliverphotography",
+        "GitHub" : "github.com/neil-oliver",
+        "SoundCloud" : "soundcloud.com/neil-oliver",
+        "Twitter" : "twitter.com/neiloliver"
+      }
     }
   }
 }

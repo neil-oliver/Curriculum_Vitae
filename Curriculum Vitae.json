@@ -154,11 +154,13 @@
         "Photography"
       ],
       "Links" : {
-        "Flickr" : "flickr.com/photos/neiloliverphoto/albums/",
-        "Instagram" : "instagram.com/neiloliverphotography",
-        "GitHub" : "github.com/neil-oliver",
-        "SoundCloud" : "soundcloud.com/neil-oliver",
-        "Twitter" : "twitter.com/neiloliver"
+        "Flickr" : "http://flickr.com/photos/neiloliverphoto/albums/",
+        "Instagram" : "http://instagram.com/neiloliverphotography",
+        "GitHub" : "http://github.com/neil-oliver",
+        "SoundCloud" : "http://soundcloud.com/neil-oliver",
+        "Twitter" : "http://twitter.com/neil_oliver",
+        "LinkedIn" : "http://linkedin.com/in/neil-oliver",
+        "YouTube" : "http://youtube.com/neiloliverphoto"
       }
     }
   }

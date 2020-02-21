@@ -4,26 +4,54 @@
     "Person" : {
       "Personal_Details" : {
         "Name" : "Neil Oliver",
+        "Gender" : "Male",
+        "Pronouns" : [
+          "He",
+          "His",
+          "Him"
+        ],
         "D.O.B" : "03/21/1985",
         "Contact" : {
-          "Phone" : {
-            "Mobile" : {
+          "Phone" : [
+            {
+              "Type" : "Mobile",
               "Number" : "07745333700",
               "Area Code" : "+44 (United Kingdom)"
+            },
+            {
+              "Type" : "Mobile",
+              "Number" : "(332)-209-8635",
+              "Area Code" : "+1 (USA)"
             }
-          },
+          ],
           "Email" : {
             "Personal" : "neiloliverphoto@gmail.com",
-            "Work" : "n.oliver@ralphallenschool.com"
+            "Work" : "olivn897@newschool.edu"
           }     
         }
       },
       "Work" : {
         "Employer" : [
           {
+            "Name" : "US-UK Fulbright Commission",
+            "Address" : "New York, New York",
+            "Link" : "http://www.fulbright.org.uk",
+            "Post" : [
+              {
+                "Title" : "All Disciplines Postgraduate Award Grantee",
+                "Responsibilities" : [
+                  "Studying MS Data Visualization at The New School - Parsons School of Design."
+                ],
+                "Start Date" : "10/08/2019",
+                "End Date" : null,
+                "Current Post" : true
+              }
+            ]
+          },
+          {
             "Name" : "Ralph Allen School",
             "Address" : "Claverton Down Road, Bath, UK",
-            "Link" : "ralphallenschool.com",
+            "Link" : "http://ralphallenschool.com",
             "Post" : [
               {
                 "Title" : "Management Responsibility Post: Assistant Head of House",
@@ -102,6 +130,25 @@
         ]  
       },
       "Education" : {
+        "The New School - Parsons School of Design" : {
+          "Course" : {
+            "Level" : "Masters of Science - MS",
+            "Title" : "Data Visualization",
+            "Specialism" : "Data Visualization",
+            "Units" : [
+              "Data Structures",
+              "Major Studio (MET Museum Collaboration Project)",
+              "Data Visualization and Information Aesthetics",
+              "Quantitative Methods",
+              "Machine Learning",
+              "Visualizing Uncertainty",
+              "Web Advanced : Javascript",
+              "Thesis (Cryptocurrency Markets and Social Media Influence)"
+            ],
+            "Start Date" : "2019",
+            "End Date" : "2020"
+          }
+        }, 
         "College of St. Mark & St. John" : {
           "Course" : {
             "Level" : "Post Graduate Certificate",
@@ -149,7 +196,6 @@
       },
       "Hobbies & Interests" : [
         "Climbing",
-        "iOS Application Development",
         "Performing Live Music",
         "Photography"
       ],
